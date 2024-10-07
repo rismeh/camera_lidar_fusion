@@ -1,3 +1,4 @@
+
 # Sensorfusion von LiDAR und Kamera
 
 Das Repository befasst sich mit der Sensorfusion von LiDAR und Kamera durch Kalibrierung. Durch die Kombination dieser beiden Sensoren ermöglichen wir eine verbesserte Wahrnehmung und Interpretation der Umgebung von SMEC.
@@ -139,3 +140,5 @@ Die fusion_node veröffentlicht drei Topics für jedes detektierte Objekt:
 <p align="center">
    <img src="pictures/output_fusion_node_termilal.png?raw=true)" alt="reprojection" />
 </p>
+
+SPECIAL THANKS - SMEC Group , This has been created by one of my Friend for our Group Project
